@@ -1,10 +1,11 @@
 install the dependencies:
-
+```
 conda create --name myenv
 source activate myenv
 
 conda install scipy
 and so on..
+```
 
 Install pyqt for UI
 
